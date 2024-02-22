@@ -1,0 +1,9 @@
+/* dnd-kit 拖拽样式*/
+div[role="button"] {
+  outline: 0
+}
+
+.ant-space.css-dev-only-do-not-override-1rqnfsa.ant-space-horizontal.ant-space-align-center.ant-space-gap-row-small.ant-space-gap-col-small {
+  display: flex;
+  flex-wrap: wrap;
+}
